@@ -1,4 +1,27 @@
 /* FetchData.css */
+.list_data {
+    border-radius: 8px;
+    size: 8px;
+    padding-left: 15px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-right: 15px;
+    border-color: black;
+}
+
+.list_data img {
+    size: 8px;
+    size-adjust: 8px;
+}
+
+.yoga_data_main {
+    list-style: none;
+    padding: 0;
+}
+
+.yoga_heading {
+    text-align: center;
+}
 
 .list_data_main {
     list-style: none;
